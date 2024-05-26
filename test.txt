@@ -1,2 +1,0 @@
-This is a test. We are changing the X value.
-We are also adding another Y value.
