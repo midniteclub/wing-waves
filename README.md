@@ -1,2 +1,2 @@
 # wing-waves
-Bird song identification based on .wav files
+Bird song identification based on audio (.wav) files
