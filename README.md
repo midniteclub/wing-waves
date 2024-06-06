@@ -2,9 +2,9 @@
 Bird song identification based on audio (.wav) files
 
 ### Team Members:
-- Max Song
-- Joseph Trybala
-- Jonathan Watkins
+- [Max](https://github.com/midniteclub)
+- [Joseph](https://github.com/binaryplatitude)
+- [Jonathan](https://github.com/Nemo5a7)
 
 ### Project Overview:
 This project focuses on the identification of bird songs using data from Kaggle and Xeno-Canto. By converting audio files into spectrograms, we explore the potential of Convolutional Neural Networks (CNNs) for accurate classification of bird species based on their songs. This approach aims to enhance ornithological research and bird conservation efforts.
