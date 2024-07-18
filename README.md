@@ -29,14 +29,10 @@ This project focuses on the identification of bird songs using data from Kaggle 
 - Identification and treatment of outliers.
 - Feature engineering and creation of spectrograms for further analysis.
 
-### Model Development:
-- **Primary Model:** Convolutional Neural Network (CNN) for its ability to automatically learn and identify complex patterns in visual data.
-- **Other Considered Architectures:** Recurrent Neural Networks (RNNs) and Long Short-Term Memory Networks (LSTMs) for sequential data, traditional machine learning algorithms on MFCC features.
-
 ### Future Directions:
 - Investigating weighting audio samples based on community ratings.
 - Exploring advanced filtering and signal isolation techniques.
-- Further refining models for better performance.
+- Further develop and refine models for better performance.
 
 ### References:
 - Boucher, N. J. (2014). SoundID version 2.0. 0 documentation.
